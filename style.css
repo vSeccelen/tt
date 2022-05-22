@@ -4,9 +4,9 @@
 }
 
 main{
-    max-width: 800px;
-    margin: 5vh auto;
-    padding: 10px;
+    max-width: 1000px;
+    margin: 1vh auto;
+    padding: 5px;
 }
 
 h1{
@@ -24,7 +24,7 @@ h2{
 
 .faq{
     padding: 0px 10px;
-    border: 1px solid rgba(0 0 0 / .1);
+    border: 0px solid rgba(0 0 0 / .1);
     border-radius: 5px;
     color: #000000;
     position: relative;
@@ -65,8 +65,3 @@ h2{
     48f;
 }
 
-@media (min-width: 720px){
-    footer p{
-        width: 80%;
-    }
-}
